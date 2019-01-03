@@ -1,0 +1,6 @@
+{
+    "require": {
+      "overtrue/wechat": "4.0",
+      "simplesoftwareio/simple-qrcode": "~2"
+    }
+}

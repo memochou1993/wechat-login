@@ -1,0 +1,13 @@
+{
+    "app_id": "",
+    "secret": "",
+    "token": "token",
+    "oauth": {
+        "scopes": "snsapi_userinfo",
+        "callback": ""
+    },
+    "log": {
+        "level": "debug",
+        "file": "wechat.log"
+    }
+}
